@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I'm passionate about fitness**
 
-### Med posts
+### Medium posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
