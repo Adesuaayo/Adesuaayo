@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I'm passionate about fitness**
 
+  [![Adesuaayo's GitHub | Stats](https://stats.quine.sh/Adesuaayo/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=Adesuaayo)
+
 ### Medium posts
 <!-- BLOG-POST-LIST:START -->
 - [Top 10 Data Analysis Books: Insights from Goodreads Ratings](https://medium.com/@adesua/top-10-data-analysis-books-insights-from-goodreads-ratings-5a551b19d38b?source=rss-1353e7c4760c------2)
