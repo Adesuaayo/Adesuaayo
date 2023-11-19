@@ -7,13 +7,13 @@
 
 - 🌱 Currently learning **data science and machine learning techniques. Open to discussions, mentorship, and collaborative learning experiences**
 
-- 📝 I regularly write articles on [https://medium.com/](https://medium.com/)
+- 📝 I regularly write articles on [Medium](https://medium.com/@adesua)
 
 - 💬 Ask me about **data wrangling, SQL queries, and Tableau for effective data cleaning and visualization. Curious about Python libraries for data analysis or the projects I'm working on? Let's chat**
 
 - ⚡ Fun fact **I'm passionate about fitness**
 
-### Blogs posts
+### Med posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
