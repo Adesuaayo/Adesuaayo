@@ -17,11 +17,11 @@
 
 ### Medium posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Data Analysis Techniques](https://medium.com/@adesua/introduction-to-data-analysis-techniques-9d688319d78f?source=rss-1353e7c4760c------2)
 - [Data Analyst Side Hustles: 5 Lucrative Opportunities You Can Start Today.](https://medium.com/@adesua/data-analyst-side-hustles-5-lucrative-opportunities-you-can-start-today-1e1adfc4eca0?source=rss-1353e7c4760c------2)
 - [Top 10 Data Analysis Books: Insights from Goodreads Ratings](https://medium.com/@adesua/top-10-data-analysis-books-insights-from-goodreads-ratings-5a551b19d38b?source=rss-1353e7c4760c------2)
 - [The Impact of Predictive Analytics in Preventive Medicine](https://medium.com/@adesua/the-impact-of-predictive-analytics-in-preventive-medicine-ba73fb32a1b9?source=rss-1353e7c4760c------2)
 - [Scraping Goodreads: A Beginner’s Guide](https://medium.com/@adesua/scraping-goodreads-a-beginners-guide-3ad3a5907c2a?source=rss-1353e7c4760c------2)
-- [Analyzing Highest Gross Earnings in Film &lpar;1915–2023&rpar; — Part 2 of the Web Scraping and Data…](https://medium.com/@adesua/analyzing-highest-gross-earnings-in-film-1915-2023-part-2-of-the-web-scraping-and-data-90694d830296?source=rss-1353e7c4760c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
