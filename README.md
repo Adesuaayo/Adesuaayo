@@ -17,11 +17,11 @@
 
 ### Medium posts
 <!-- BLOG-POST-LIST:START -->
+- [A Practical Guide to Data Analysis Process](https://medium.com/@adesua/a-practical-guide-to-data-analysis-process-1a4985413753?source=rss-1353e7c4760c------2)
 - [Introduction to Data Analysis Techniques](https://medium.com/@adesua/introduction-to-data-analysis-techniques-9d688319d78f?source=rss-1353e7c4760c------2)
 - [Is Funke Akindele the biggest shot in the Nigerian movie Industry?](https://medium.com/@adesua/is-funke-akindele-the-biggest-shot-in-the-nigerian-movie-industry-56bf5436414f?source=rss-1353e7c4760c------2)
 - [Making Extra Bucks through Academic Dissertation Data Analysis](https://medium.com/@adesua/making-extra-bucks-through-academic-dissertation-data-analysis-21c15cb28419?source=rss-1353e7c4760c------2)
 - [Data Analyst Side Hustles: 5 Lucrative Opportunities You Can Start Today.](https://medium.com/@adesua/data-analyst-side-hustles-5-lucrative-opportunities-you-can-start-today-1e1adfc4eca0?source=rss-1353e7c4760c------2)
-- [Top 10 Data Analysis Books: Insights from Goodreads Ratings](https://medium.com/@adesua/top-10-data-analysis-books-insights-from-goodreads-ratings-5a551b19d38b?source=rss-1353e7c4760c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
