@@ -17,11 +17,11 @@
 
 ### Medium posts
 <!-- BLOG-POST-LIST:START -->
+- [Master Data Cleaning in Python: A Hands-On Project](https://medium.com/@adesua/master-data-cleaning-in-python-a-hands-on-project-97a048f05a0f?source=rss-1353e7c4760c------2)
 - [Web Scraping Indeed for Data Analysts: Mastering the Data Collection Process](https://medium.com/@adesua/web-scraping-indeed-for-data-analysts-mastering-the-data-collection-process-fb5c8678d013?source=rss-1353e7c4760c------2)
 - [A Practical Guide to Data Analysis Process](https://medium.com/@adesua/a-practical-guide-to-data-analysis-process-1a4985413753?source=rss-1353e7c4760c------2)
 - [Introduction to Data Analysis Techniques](https://medium.com/@adesua/introduction-to-data-analysis-techniques-9d688319d78f?source=rss-1353e7c4760c------2)
 - [Is Funke Akindele the biggest shot in the Nigerian movie Industry?](https://medium.com/@adesua/is-funke-akindele-the-biggest-shot-in-the-nigerian-movie-industry-56bf5436414f?source=rss-1353e7c4760c------2)
-- [Making Extra Bucks through Academic Dissertation Data Analysis](https://medium.com/@adesua/making-extra-bucks-through-academic-dissertation-data-analysis-21c15cb28419?source=rss-1353e7c4760c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
