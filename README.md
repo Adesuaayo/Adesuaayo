@@ -17,11 +17,11 @@
 
 ### Medium posts
 <!-- BLOG-POST-LIST:START -->
+- [Boosting Profitability Without Sacrificing Care: 3 KPIs Every Healthcare Administrator Need](https://medium.com/@adesua/boosting-profitability-without-sacrificing-care-3-kpis-every-healthcare-administrator-need-bc2a6920b754?source=rss-1353e7c4760c------2)
 - [Exploratory Data Analysis with Python: Analyzing Indeed Job Listings](https://medium.com/@adesua/exploratory-data-analysis-with-python-analyzing-indeed-job-listings-7f676dc375f9?source=rss-1353e7c4760c------2)
 - [Master Data Cleaning in Python: A Hands-On Project](https://medium.com/@adesua/master-data-cleaning-in-python-a-hands-on-project-97a048f05a0f?source=rss-1353e7c4760c------2)
 - [Web Scraping Indeed for Data Analysts: Mastering the Data Collection Process](https://medium.com/@adesua/web-scraping-indeed-for-data-analysts-mastering-the-data-collection-process-fb5c8678d013?source=rss-1353e7c4760c------2)
 - [A Practical Guide to Data Analysis Process](https://medium.com/@adesua/a-practical-guide-to-data-analysis-process-1a4985413753?source=rss-1353e7c4760c------2)
-- [Introduction to Data Analysis Techniques](https://medium.com/@adesua/introduction-to-data-analysis-techniques-9d688319d78f?source=rss-1353e7c4760c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
