@@ -17,11 +17,11 @@
 
 ### Medium posts
 <!-- BLOG-POST-LIST:START -->
+- [Analyzing Adidas Sales Trends and Performance](https://medium.com/@adesua/analyzing-adidas-sales-trends-and-performance-0703ed2487db?source=rss-1353e7c4760c------2)
 - [Excel vs. Python for Data Cleaning](https://medium.com/@adesua/excel-vs-python-for-data-cleaning-7a8971f25dda?source=rss-1353e7c4760c------2)
 - [Boosting Profitability Without Sacrificing Care: 3 KPIs Every Healthcare Administrator Need](https://medium.com/@adesua/boosting-profitability-without-sacrificing-care-3-kpis-every-healthcare-administrator-need-bc2a6920b754?source=rss-1353e7c4760c------2)
 - [Exploratory Data Analysis with Python: Analyzing Indeed Job Listings](https://medium.com/@adesua/exploratory-data-analysis-with-python-analyzing-indeed-job-listings-7f676dc375f9?source=rss-1353e7c4760c------2)
 - [Master Data Cleaning in Python: A Hands-On Project](https://medium.com/@adesua/master-data-cleaning-in-python-a-hands-on-project-97a048f05a0f?source=rss-1353e7c4760c------2)
-- [Web Scraping Indeed for Data Analysts: Mastering the Data Collection Process](https://medium.com/@adesua/web-scraping-indeed-for-data-analysts-mastering-the-data-collection-process-fb5c8678d013?source=rss-1353e7c4760c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
