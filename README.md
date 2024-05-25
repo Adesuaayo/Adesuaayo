@@ -17,11 +17,11 @@
 
 ### Medium posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing Customer Engagement through RFM Segmentation and Analysis](https://medium.com/@adesua/optimizing-customer-engagement-through-rfm-segmentation-and-analysis-b324f9a31c0b?source=rss-1353e7c4760c------2)
 - [Hypothesis Tests in Python: A beginners Guide Part 1- T-tests](https://medium.com/@adesua/hypothesis-tests-in-python-a-beginners-guide-part-1-t-tests-ee3e6a63e488?source=rss-1353e7c4760c------2)
 - [Data Cleaning Essentials: A Practical Guide for Aspiring Data Analysts](https://medium.com/@adesua/data-cleaning-essentials-a-practical-guide-for-aspiring-data-analysts-5958e7ea9d1e?source=rss-1353e7c4760c------2)
 - [Analyzing Adidas Sales Trends and Performance](https://medium.com/@adesua/analyzing-adidas-sales-trends-and-performance-0703ed2487db?source=rss-1353e7c4760c------2)
 - [Excel vs. Python for Data Cleaning](https://medium.com/@adesua/excel-vs-python-for-data-cleaning-7a8971f25dda?source=rss-1353e7c4760c------2)
-- [Boosting Profitability Without Sacrificing Care: 3 KPIs Every Healthcare Administrator Need](https://medium.com/@adesua/boosting-profitability-without-sacrificing-care-3-kpis-every-healthcare-administrator-need-bc2a6920b754?source=rss-1353e7c4760c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
