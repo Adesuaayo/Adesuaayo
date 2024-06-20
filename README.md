@@ -17,11 +17,11 @@
 
 ### Medium posts
 <!-- BLOG-POST-LIST:START -->
+- [Hypothesis Tests in Python Part 3: One-Sample and Two-Sample Proportion Tests](https://medium.com/@adesua/hypothesis-tests-in-python-part-3-one-sample-and-two-sample-proportion-tests-7dd7526ee80d?source=rss-1353e7c4760c------2)
 - [Hypothesis Tests in Python Part 2: ANOVA](https://medium.com/@adesua/hypothesis-tests-in-python-part-2-anova-5dacd9b94872?source=rss-1353e7c4760c------2)
 - [Optimizing Customer Engagement through RFM Segmentation and Analysis](https://medium.com/@adesua/optimizing-customer-engagement-through-rfm-segmentation-and-analysis-b324f9a31c0b?source=rss-1353e7c4760c------2)
 - [Hypothesis Tests in Python: A beginners Guide Part 1- T-tests](https://medium.com/@adesua/hypothesis-tests-in-python-a-beginners-guide-part-1-t-tests-ee3e6a63e488?source=rss-1353e7c4760c------2)
 - [Data Cleaning Essentials: A Practical Guide for Aspiring Data Analysts](https://medium.com/@adesua/data-cleaning-essentials-a-practical-guide-for-aspiring-data-analysts-5958e7ea9d1e?source=rss-1353e7c4760c------2)
-- [Analyzing Adidas Sales Trends and Performance](https://medium.com/@adesua/analyzing-adidas-sales-trends-and-performance-0703ed2487db?source=rss-1353e7c4760c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
