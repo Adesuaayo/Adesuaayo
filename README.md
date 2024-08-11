@@ -17,7 +17,7 @@
 
 ### Medium posts
 <!-- BLOG-POST-LIST:START -->
-- [A Practical Introduction to Predictive Analytics](https://medium.com/@adesua/a-practical-introduction-to-predictive-analytics-25355c0ac272?source=rss-1353e7c4760c------2)
+- [A Practical Introduction to Predictive Analytics](https://medium.com/thedeephub/a-practical-introduction-to-predictive-analytics-25355c0ac272?source=rss-1353e7c4760c------2)
 - [Why Data Analysis Matters for Small Businesses](https://medium.com/@adesua/why-data-analysis-matters-for-small-businesses-9ff9b4cd651f?source=rss-1353e7c4760c------2)
 - [Exploring YouTube’s Popular Content: Insights for Creators and Marketers](https://medium.com/@adesua/exploring-youtubes-popular-content-insights-for-creators-and-marketers-2fd7ecdeb179?source=rss-1353e7c4760c------2)
 - [Hypothesis Tests in Python Part 3: One-Sample and Two-Sample Proportion Tests](https://medium.com/@adesua/hypothesis-tests-in-python-part-3-one-sample-and-two-sample-proportion-tests-7dd7526ee80d?source=rss-1353e7c4760c------2)
