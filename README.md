@@ -17,11 +17,11 @@
 
 ### Medium posts
 <!-- BLOG-POST-LIST:START -->
+- [A Practical Introduction to Predictive Analytics](https://medium.com/@adesua/a-practical-introduction-to-predictive-analytics-25355c0ac272?source=rss-1353e7c4760c------2)
 - [Why Data Analysis Matters for Small Businesses](https://medium.com/@adesua/why-data-analysis-matters-for-small-businesses-9ff9b4cd651f?source=rss-1353e7c4760c------2)
 - [Exploring YouTube’s Popular Content: Insights for Creators and Marketers](https://medium.com/@adesua/exploring-youtubes-popular-content-insights-for-creators-and-marketers-2fd7ecdeb179?source=rss-1353e7c4760c------2)
 - [Hypothesis Tests in Python Part 3: One-Sample and Two-Sample Proportion Tests](https://medium.com/@adesua/hypothesis-tests-in-python-part-3-one-sample-and-two-sample-proportion-tests-7dd7526ee80d?source=rss-1353e7c4760c------2)
 - [Hypothesis Tests in Python Part 2: ANOVA](https://medium.com/@adesua/hypothesis-tests-in-python-part-2-anova-5dacd9b94872?source=rss-1353e7c4760c------2)
-- [Optimizing Customer Engagement through RFM Segmentation and Analysis](https://medium.com/@adesua/optimizing-customer-engagement-through-rfm-segmentation-and-analysis-b324f9a31c0b?source=rss-1353e7c4760c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
