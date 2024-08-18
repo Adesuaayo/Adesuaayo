@@ -17,11 +17,11 @@
 
 ### Medium posts
 <!-- BLOG-POST-LIST:START -->
+- [How Work-from-Home Affects Employee Productivity: A Data-Driven Approach](https://medium.com/@adesua/how-work-from-home-affects-employee-productivity-a-data-driven-approach-ba003fa2ce6b?source=rss-1353e7c4760c------2)
 - [Leveraging Social Media Data](https://medium.com/thedeephub/leveraging-social-media-data-ed57bffdb3a2?source=rss-1353e7c4760c------2)
 - [A Practical Introduction to Predictive Analytics](https://medium.com/thedeephub/a-practical-introduction-to-predictive-analytics-25355c0ac272?source=rss-1353e7c4760c------2)
 - [Why Data Analysis Matters for Small Businesses](https://medium.com/@adesua/why-data-analysis-matters-for-small-businesses-9ff9b4cd651f?source=rss-1353e7c4760c------2)
 - [Exploring YouTube’s Popular Content: Insights for Creators and Marketers](https://medium.com/@adesua/exploring-youtubes-popular-content-insights-for-creators-and-marketers-2fd7ecdeb179?source=rss-1353e7c4760c------2)
-- [Hypothesis Tests in Python Part 3: One-Sample and Two-Sample Proportion Tests](https://medium.com/@adesua/hypothesis-tests-in-python-part-3-one-sample-and-two-sample-proportion-tests-7dd7526ee80d?source=rss-1353e7c4760c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
