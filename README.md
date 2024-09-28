@@ -17,11 +17,11 @@
 
 ### Medium posts
 <!-- BLOG-POST-LIST:START -->
+- [Inference &lpar;Causal&rpar; vs. Predictive Models](https://medium.com/thedeephub/inference-causal-vs-predictive-models-6546f814f44b?source=rss-1353e7c4760c------2)
 - [Fighting Healthcare Fraud with Machine Learning](https://medium.com/thedeephub/fighting-healthcare-fraud-with-machine-learning-6ae5c8c147ed?source=rss-1353e7c4760c------2)
 - [Identifying Emerging Research Trends in Artificial Intelligence: A Topic Modeling Using NMF](https://medium.com/thedeephub/identifying-emerging-research-trends-in-artificial-intelligence-a-topic-modeling-using-nmf-d6689dbd173c?source=rss-1353e7c4760c------2)
 - [Customer Segmentation Using Hierarchical Clustering](https://medium.com/thedeephub/customer-segmentation-using-hierarchical-clustering-2fb9e60d29f5?source=rss-1353e7c4760c------2)
 - [Unique Data Analytics Portfolio Project](https://medium.com/thedeephub/unique-data-analytics-portfolio-project-f8934bf86f22?source=rss-1353e7c4760c------2)
-- [Think Like A Data Analyst: Skill Sets That Matter More Than Tools](https://medium.com/@adesua/think-like-a-data-analyst-skill-sets-that-matter-more-than-tools-ca03a95910db?source=rss-1353e7c4760c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
