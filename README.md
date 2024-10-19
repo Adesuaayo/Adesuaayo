@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://x.com/adesua_ayo" target="blank"><img src="https://img.shields.io/twitter/follow/adesua_ayo?logo=twitter&style=for-the-badge" alt="adesua_ayo" /></a> </p>
 
-- 🔭 I’m currently working on [Data-Analysis-Books-Recommendations](https://github.com/Adesuaayo/Data-Analysis-Books-Recommendations-)
+- 🔭 I’m currently working on [Predicting the Outbreak of Tuberculosis](https://github.com/Adesuaayo/Data-Analysis-Books-Recommendations-)
 
-- 🌱 Currently learning **data science and machine learning techniques. Open to discussions, mentorship, and collaborative learning experiences**
+- 🌱 Certified **Data Scientist. Open to discussions, mentorship, and collaborative learning experiences**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@adesua)
 
-- 💬 Ask me about **data wrangling, SQL queries, and Tableau for effective data cleaning and visualization. Curious about Python libraries for data analysis or the projects I'm working on? Let's chat**
+- 💬 Ask me about **Data Science, data wrangling, SQL queries, and Tableau for effective data cleaning and visualization. Curious about Python libraries for data analysis or the projects I'm working on? Let's chat**
 
-- ⚡ Fun fact **I'm passionate about fitness**
+- ⚡ Fun fact **I teach STEM to kids under 18 and I'm also passionate about fitness**
 
   [![Adesuaayo's GitHub | Stats](https://stats.quine.sh/Adesuaayo/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=Adesuaayo)
 
