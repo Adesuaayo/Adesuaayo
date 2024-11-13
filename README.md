@@ -17,11 +17,11 @@
 
 ### Medium posts
 <!-- BLOG-POST-LIST:START -->
+- [Predicting Diabetic Patient Readmission Part 1](https://medium.com/thedeephub/predicting-diabetic-patient-readmission-part-1-50f7d98c4206?source=rss-1353e7c4760c------2)
 - [Don’t Let Bad Data Ruin Your Data Analysis: The Importance of Data Management](https://medium.com/@adesua/dont-let-bad-data-ruin-your-data-analysis-the-importance-of-data-management-69d992ebdaef?source=rss-1353e7c4760c------2)
 - [Heart Disease Prediction Using Machine Learning](https://medium.com/thedeephub/heart-disease-prediction-using-machine-learning-7a6239e4662a?source=rss-1353e7c4760c------2)
 - [Predicting and Explaining Customer Churn: A Data Science Approach with Causal Inference Insights](https://medium.com/thedeephub/predicting-and-explaining-customer-churn-a-data-science-approach-with-causal-inference-insights-6a981c179f0d?source=rss-1353e7c4760c------2)
 - [Inference &lpar;Causal&rpar; vs. Predictive Models](https://medium.com/thedeephub/inference-causal-vs-predictive-models-6546f814f44b?source=rss-1353e7c4760c------2)
-- [Fighting Healthcare Fraud with Machine Learning](https://medium.com/thedeephub/fighting-healthcare-fraud-with-machine-learning-6ae5c8c147ed?source=rss-1353e7c4760c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
