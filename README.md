@@ -17,11 +17,11 @@
 
 ### Medium posts
 <!-- BLOG-POST-LIST:START -->
+- [The Soft Skills That Elevate a Data Scientist](https://medium.com/h7w/the-soft-skills-that-elevate-a-data-scientist-9518a50aca41?source=rss-1353e7c4760c------2)
 - [Stop Saving Articles: Here’s How to Actually Learn from Them](https://medium.com/@adesua/stop-saving-articles-heres-how-to-actually-learn-from-them-2ba919f2dde8?source=rss-1353e7c4760c------2)
 - [10 Unique End-to-End Data Analysis Projects to Land Your Dream Job in 2025](https://medium.com/h7w/10-unique-end-to-end-data-analysis-projects-to-land-your-dream-job-in-2025-ddcb9f3c401d?source=rss-1353e7c4760c------2)
 - [Predicting Diabetic Patient Readmission Part 1](https://medium.com/thedeephub/predicting-diabetic-patient-readmission-part-1-50f7d98c4206?source=rss-1353e7c4760c------2)
 - [Don’t Let Bad Data Ruin Your Data Analysis: The Importance of Data Management](https://medium.com/@adesua/dont-let-bad-data-ruin-your-data-analysis-the-importance-of-data-management-69d992ebdaef?source=rss-1353e7c4760c------2)
-- [Heart Disease Prediction Using Machine Learning](https://medium.com/thedeephub/heart-disease-prediction-using-machine-learning-7a6239e4662a?source=rss-1353e7c4760c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
