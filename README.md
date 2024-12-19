@@ -17,11 +17,11 @@
 
 ### Medium posts
 <!-- BLOG-POST-LIST:START -->
+- [The Art of Embracing Change in a Rapidly Evolving World](https://medium.com/@adesua/the-art-of-embracing-change-in-a-rapidly-evolving-world-ab51ab417230?source=rss-1353e7c4760c------2)
 - [Transitioning to Data Science: Key Lessons and Skills for Aspiring Analysts](https://medium.com/thedeephub/transitioning-to-data-science-key-lessons-and-skills-for-aspiring-analysts-55786c2b7d16?source=rss-1353e7c4760c------2)
 - [The Soft Skills That Elevate a Data Scientist](https://medium.com/h7w/the-soft-skills-that-elevate-a-data-scientist-9518a50aca41?source=rss-1353e7c4760c------2)
 - [Stop Saving Articles: Here’s How to Actually Learn from Them](https://medium.com/@adesua/stop-saving-articles-heres-how-to-actually-learn-from-them-2ba919f2dde8?source=rss-1353e7c4760c------2)
 - [10 Unique End-to-End Data Analysis Projects to Land Your Dream Job in 2025](https://medium.com/h7w/10-unique-end-to-end-data-analysis-projects-to-land-your-dream-job-in-2025-ddcb9f3c401d?source=rss-1353e7c4760c------2)
-- [Predicting Diabetic Patient Readmission Part 1](https://medium.com/thedeephub/predicting-diabetic-patient-readmission-part-1-50f7d98c4206?source=rss-1353e7c4760c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
