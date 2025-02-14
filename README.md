@@ -18,7 +18,7 @@
 ### Medium posts
 <!-- BLOG-POST-LIST:START -->
 - [How a Single Decision Skyrocketed My Earning Power: The Power of Mindset and Visibility](https://medium.com/thedeephub/how-a-single-decision-skyrocketed-my-earning-power-the-power-of-mindset-and-visibility-fe96d8606210?source=rss-1353e7c4760c------2)
-- [The Remote Work Trap: How I Burned Out as a Research Analyst &lpar;And How to Avoid It&rpar;](https://medium.com/@adesua/the-remote-work-trap-how-i-burned-out-as-a-research-analyst-and-how-to-avoid-it-df1c1526c7b4?source=rss-1353e7c4760c------2)
+- [The Remote Work Trap: How I Burned Out as a Research Analyst &lpar;And How to Avoid It&rpar;](https://medium.com/h7w/the-remote-work-trap-how-i-burned-out-as-a-research-analyst-and-how-to-avoid-it-df1c1526c7b4?source=rss-1353e7c4760c------2)
 - [Job Hunting as a Data Analyst? 4 Overlooked Ways to Earn Money &lpar;And Maybe Skip the 9-to-5&rpar;](https://medium.com/thedeephub/job-hunting-as-a-data-analyst-4-overlooked-ways-to-earn-money-and-maybe-skip-the-9-to-5-79d99092a55f?source=rss-1353e7c4760c------2)
 - [Four Months of Medium Membership; You Won’t Believe How Much I Earned](https://medium.com/h7w/four-months-of-medium-membership-you-wont-believe-how-much-i-earned-7a699c485912?source=rss-1353e7c4760c------2)
 - [Transitioning to Data Science: Key Lessons and Skills for Aspiring Analysts](https://medium.com/thedeephub/transitioning-to-data-science-key-lessons-and-skills-for-aspiring-analysts-55786c2b7d16?source=rss-1353e7c4760c------2)
