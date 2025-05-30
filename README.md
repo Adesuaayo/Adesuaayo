@@ -17,11 +17,11 @@
 
 ### Medium posts
 <!-- BLOG-POST-LIST:START -->
+- [Urgent Data Analyst Hires: Top Platforms to Watch](https://medium.com/thedeephub/urgent-data-analyst-hires-top-platforms-to-watch-def87f634b57?source=rss-1353e7c4760c------2)
 - [5 Certifications That Will Boost Your Data Analyst Resume in 2025](https://medium.com/@adesua/5-certifications-that-will-boost-your-data-analyst-resume-in-2025-408c3d79bab5?source=rss-1353e7c4760c------2)
 - [Unconventional Routes to Real-World Data Analyst Experience](https://medium.com/@adesua/unconventional-routes-to-real-world-data-analyst-experience-ca8c74961162?source=rss-1353e7c4760c------2)
 - [How to Start Learning Data Analysis](https://medium.com/thedeephub/how-to-start-learning-data-analysis-209d31d50112?source=rss-1353e7c4760c------2)
 - [5 Passive Income Streams Every Data Analyst Should Explore](https://medium.com/@adesua/5-passive-income-streams-every-data-analyst-should-explore-bb9f916d406b?source=rss-1353e7c4760c------2)
-- [How a Single Decision Skyrocketed My Earning Power: The Power of Mindset and Visibility](https://medium.com/thedeephub/how-a-single-decision-skyrocketed-my-earning-power-the-power-of-mindset-and-visibility-fe96d8606210?source=rss-1353e7c4760c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
