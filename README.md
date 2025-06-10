@@ -17,11 +17,11 @@
 
 ### Medium posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT is down! Are you also experiencing it?](https://medium.com/@adesua/chatgpt-is-down-are-you-also-experiencing-it-9010924f24f0?source=rss-1353e7c4760c------2)
 - [Resources to Build Your Healthcare Analytics Portfolio](https://medium.com/thedeephub/resources-to-build-your-healthcare-analytics-portfolio-c160cce26c54?source=rss-1353e7c4760c------2)
 - [Your Local Clinic needs a Data Analyst Now](https://medium.com/@adesua/your-local-clinic-needs-a-data-analyst-now-5939b5448441?source=rss-1353e7c4760c------2)
 - [Everyone’s Applying to Tech — Why You Should Look at Hospital Data](https://medium.com/thedeephub/everyones-applying-to-tech-why-you-should-look-at-hospital-data-bac044f65bf9?source=rss-1353e7c4760c------2)
 - [Urgent Data Analyst Hires: Top Platforms to Watch](https://medium.com/thedeephub/urgent-data-analyst-hires-top-platforms-to-watch-def87f634b57?source=rss-1353e7c4760c------2)
-- [5 Certifications That Will Boost Your Data Analyst Resume in 2025](https://medium.com/@adesua/5-certifications-that-will-boost-your-data-analyst-resume-in-2025-408c3d79bab5?source=rss-1353e7c4760c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
