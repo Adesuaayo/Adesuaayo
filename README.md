@@ -17,11 +17,11 @@
 
 ### Medium posts
 <!-- BLOG-POST-LIST:START -->
+- [The Client Magnet Blueprint: How to Make People Chase Your Freelance Services](https://medium.com/@adesua/the-client-magnet-blueprint-how-to-make-people-chase-your-freelance-services-045d982b3d25?source=rss-1353e7c4760c------2)
 - [My Top 6 Strategies for Managing Clients as a Freelancer](https://medium.com/@adesua/my-top-6-strategies-for-managing-clients-as-a-freelancer-99f37bfac76a?source=rss-1353e7c4760c------2)
 - [Clients Should Find You](https://medium.com/h7w/clients-should-find-you-2a9c9f334619?source=rss-1353e7c4760c------2)
 - [ChatGPT is down! Are you also experiencing it?](https://medium.com/@adesua/chatgpt-is-down-are-you-also-experiencing-it-9010924f24f0?source=rss-1353e7c4760c------2)
 - [Resources to Build Your Healthcare Analytics Portfolio](https://medium.com/thedeephub/resources-to-build-your-healthcare-analytics-portfolio-c160cce26c54?source=rss-1353e7c4760c------2)
-- [Your Local Clinic needs a Data Analyst Now](https://medium.com/@adesua/your-local-clinic-needs-a-data-analyst-now-5939b5448441?source=rss-1353e7c4760c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
