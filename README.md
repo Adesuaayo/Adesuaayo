@@ -17,11 +17,11 @@
 
 ### Medium posts
 <!-- BLOG-POST-LIST:START -->
+- [You Don’t Need to Leave Healthcare to Work in Tech](https://medium.com/@adesua/you-dont-need-to-leave-healthcare-to-work-in-tech-78c3b5accbe1?source=rss-1353e7c4760c------2)
 - [The Healthcare Data Job Market Nobody Tells Health Workers About](https://medium.com/@adesua/the-healthcare-data-job-market-nobody-tells-health-workers-about-25dfcec947ff?source=rss-1353e7c4760c------2)
 - [Domain Knowledge Is the Bottleneck, Not Python](https://medium.com/@adesua/domain-knowledge-is-the-bottleneck-not-python-789f176f2d1e?source=rss-1353e7c4760c------2)
 - [The Client Magnet Blueprint: How to Make People Chase Your Freelance Services](https://medium.com/@adesua/the-client-magnet-blueprint-how-to-make-people-chase-your-freelance-services-045d982b3d25?source=rss-1353e7c4760c------2)
 - [My Top 6 Strategies for Managing Clients as a Freelancer](https://medium.com/@adesua/my-top-6-strategies-for-managing-clients-as-a-freelancer-99f37bfac76a?source=rss-1353e7c4760c------2)
-- [Clients Should Find You](https://medium.com/h7w/clients-should-find-you-2a9c9f334619?source=rss-1353e7c4760c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
