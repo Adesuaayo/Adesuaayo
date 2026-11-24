@@ -18,7 +18,7 @@ number, with the limitations written down.
 | Case | The decision | Result |
 |---|---|---|
 | [Cost-to-serve in e-commerce logistics](https://github.com/Adesuaayo/cost-to-serve-ecommerce-logistics) | Which lever cuts delivery failure: re-route, renegotiate, enforce dispatch, or recalibrate the promise? | Setting the delivery promise per lane cuts lateness from 8.1 to 5.0 percent, about **1,697 fewer late orders a year**. A missed seller dispatch deadline makes a late delivery **4.71 times more likely** |
-| [Home-based vaccination records, Nigeria DHS 2024](https://github.com/Adesuaayo/ndhs2024-home-based-records) | FILL IN: the decision this informs | FILL IN: the headline finding, with a number |
+| [Home-based vaccination records, Nigeria DHS 2024](https://github.com/Adesuaayo/ndhs2024-home-based-records) | Which gap to close first so children's vaccination records stop going missing: cards never issued at clinics, cards lost at home, or the states where both fail? | Only 42.7 percent of children aged 12 to 35 months had a vaccination card seen. Cards never issued (35.6 percent) outweigh cards lost (15.4 percent), and 96.8 percent of children who never had a card were zero-dose. Any antenatal visit cuts the odds of a child never getting a card by 57 to 71 percent |
 
 In progress: cutting clinic no-shows and recovering capacity. Next: where FMCG
 trade spend earns its money.
