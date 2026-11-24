@@ -1,37 +1,50 @@
-<h1 align="center">Hi 👋, I'm Adesua</h1>
-<h3 align="center">Data Analyst | From Numbers to Knowledge</h3>
+# Hi, I'm Adesua
 
-<p align="left"> <a href="https://x.com/adesua_ayo" target="blank"><img src="https://img.shields.io/twitter/follow/adesua_ayo?logo=twitter&style=for-the-badge" alt="adesua_ayo" /></a> </p>
+**Data Analyst | Healthcare and operations analytics**
 
-- 🔭 I’m currently working on [Predicting the Outbreak of Tuberculosis](https://github.com/Adesuaayo/Data-Analysis-Books-Recommendations-)
+I take a business question from framing to a costed recommendation: what is
+being decided, by whom, what the data can and cannot carry, and what the
+answer is worth in money or capacity. Public health is my domain background,
+so I am most useful where the data is messy, the stakes are real, and the
+answer has to survive being questioned.
 
-- 🌱 Certified **Data Scientist. Open to discussions, mentorship, and collaborative learning experiences**
+Open to Data Analyst and BI Analyst roles.
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@adesua)
+## Case studies
 
-- 💬 Ask me about **Data Science, data wrangling, SQL queries, and Tableau for effective data cleaning and visualization. Curious about Python libraries for data analysis or the projects I'm working on? Let's chat**
+Each one answers a named decision for a named decision maker and ends in a
+number, with the limitations written down.
 
-- ⚡ Fun fact **I teach STEM to kids under 18 and I'm also passionate about fitness**
+| Case | The decision | Result |
+|---|---|---|
+| [Cost-to-serve in e-commerce logistics](https://github.com/Adesuaayo/cost-to-serve-ecommerce-logistics) | Which lever cuts delivery failure: re-route, renegotiate, enforce dispatch, or recalibrate the promise? | Setting the delivery promise per lane cuts lateness from 8.1 to 5.0 percent, about **1,697 fewer late orders a year**. A missed seller dispatch deadline makes a late delivery **4.71 times more likely** |
+| [Home-based vaccination records, Nigeria DHS 2024](https://github.com/Adesuaayo/ndhs2024-home-based-records) | FILL IN: the decision this informs | FILL IN: the headline finding, with a number |
 
-  [![Adesuaayo's GitHub | Stats](https://stats.quine.sh/Adesuaayo/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=Adesuaayo)
+In progress: cutting clinic no-shows and recovering capacity. Next: where FMCG
+trade spend earns its money.
 
-### Medium posts
-<!-- BLOG-POST-LIST:START -->
-- [You Don’t Need to Leave Healthcare to Work in Tech](https://medium.com/@adesua/you-dont-need-to-leave-healthcare-to-work-in-tech-78c3b5accbe1?source=rss-1353e7c4760c------2)
-- [The Healthcare Data Job Market Nobody Tells Health Workers About](https://medium.com/@adesua/the-healthcare-data-job-market-nobody-tells-health-workers-about-25dfcec947ff?source=rss-1353e7c4760c------2)
-- [Domain Knowledge Is the Bottleneck, Not Python](https://medium.com/@adesua/domain-knowledge-is-the-bottleneck-not-python-789f176f2d1e?source=rss-1353e7c4760c------2)
-- [The Client Magnet Blueprint: How to Make People Chase Your Freelance Services](https://medium.com/@adesua/the-client-magnet-blueprint-how-to-make-people-chase-your-freelance-services-045d982b3d25?source=rss-1353e7c4760c------2)
-- [My Top 6 Strategies for Managing Clients as a Freelancer](https://medium.com/@adesua/my-top-6-strategies-for-managing-clients-as-a-freelancer-99f37bfac76a?source=rss-1353e7c4760c------2)
-<!-- BLOG-POST-LIST:END -->
+## What I work with
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/adesua_ayo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adesua_ayo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adesuaayomitandonatus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adesuaayomitandonatus" height="30" width="40" /></a>
-<a href="https://medium.com/@adesua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adesua" height="30" width="40" /></a>
-</p>
+**Query and analysis:** SQL (DuckDB, PostgreSQL), Python (pandas, statsmodels,
+scikit-learn), R (survey-weighted estimation, multilevel models)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+**Modelling and reporting:** Excel (Power Query, scenario models), Power BI
+(DAX, data modelling), Tableau
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adesuaayo&show_icons=true&locale=en&layout=compact" alt="adesuaayo" /></p>
+## Writing
+
+I write about healthcare and data careers on
+[Medium](https://medium.com/@adesua):
+
+- You Don't Need to Leave Healthcare to Work in Tech
+- The Healthcare Data Job Market Nobody Tells Health Workers About
+- Domain Knowledge Is the Bottleneck, Not Python
+
+## Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/adesuaayomitandonatus) ·
+[Medium](https://medium.com/@adesua) ·
+[X](https://x.com/Adesua_Ayo)
+
+Outside the day job I teach coding to children, which is the fastest way I
+know to find out whether you can actually explain something.
