@@ -36,9 +36,9 @@ scikit-learn), R (survey-weighted estimation, multilevel models)
 I write about healthcare and data careers on
 [Medium](https://medium.com/@adesua):
 
-- [You Don’t Need to Leave Healthcare to Work in Tech]([PASTE_URL_1](https://medium.com/@adesua/you-dont-need-to-leave-healthcare-to-work-in-tech-78c3b5accbe1))
-- [Your Local Clinic Needs a Data Analyst Now]([PASTE_URL_2](https://medium.com/@adesua/your-local-clinic-needs-a-data-analyst-now-5939b5448441))
-- [Resources to Build Your Healthcare Analytics Portfolio]([PASTE_URL_3](https://medium.com/thedeephub/resources-to-build-your-healthcare-analytics-portfolio-c160cce26c54))
+- [You Don’t Need to Leave Healthcare to Work in Tech](https://medium.com/@adesua/you-dont-need-to-leave-healthcare-to-work-in-tech-78c3b5accbe1)
+- [Your Local Clinic Needs a Data Analyst Now](https://medium.com/@adesua/your-local-clinic-needs-a-data-analyst-now-5939b5448441))
+- [Resources to Build Your Healthcare Analytics Portfolio](https://medium.com/thedeephub/resources-to-build-your-healthcare-analytics-portfolio-c160cce26c54)
 
 ## Elsewhere
 
