@@ -9,7 +9,7 @@ so I am most useful where the data is messy, the stakes are real, and the
 answer has to survive being questioned.
 
 Open to Data Analyst and BI Analyst roles.
-**[adesuaayomitan.com](https://adesuaayomitan.com)** — the case studies, written up.
+**[adesuaayomitan.com](https://adesuaayomitan.com)**
 
 ## Case studies
 
