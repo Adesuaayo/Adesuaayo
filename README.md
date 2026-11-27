@@ -17,11 +17,11 @@ number, with the limitations written down.
 
 | Case | The decision | Result |
 |---|---|---|
+| [Cutting clinic no-shows and recovering capacity](https://github.com/Adesuaayo/clinic-no-show-capacity-recovery) | Which appointments get a reminder, on a fixed budget, and what does that recover? | One in five appointments is missed, **66,141 clinical hours a year**. Targeting the riskiest 20 percent of bookings reaches **37.3 percent of all misses**, and a reminder only has to work **1.3 pp** better than nothing to pay for itself |
 | [Cost-to-serve in e-commerce logistics](https://github.com/Adesuaayo/cost-to-serve-ecommerce-logistics) | Which lever cuts delivery failure: re-route, renegotiate, enforce dispatch, or recalibrate the promise? | Setting the delivery promise per lane cuts lateness from 8.1 to 5.0 percent, about **1,697 fewer late orders a year**. A missed seller dispatch deadline makes a late delivery **4.71 times more likely** |
-| [Home-based vaccination records, Nigeria DHS 2024](https://github.com/Adesuaayo/ndhs2024-home-based-records) | Which gap to close first so children's vaccination records stop going missing: cards never issued at clinics, cards lost at home, or the states where both fail? | Only 42.7 percent of children aged 12 to 35 months had a vaccination card seen. Cards never issued (35.6 percent) outweigh cards lost (15.4 percent), and 96.8 percent of children who never had a card were zero-dose. Any antenatal visit cuts the odds of a child never getting a card by 57 to 71 percent |
+| [Home-based vaccination records, Nigeria DHS 2024](https://github.com/Adesuaayo/ndhs2024-home-based-records) | Which gap to close first so children's vaccination records stop going missing: cards never issued at clinics, cards lost at home, or the states where both fail? | Only **42.7 percent** of children aged 12 to 35 months had a vaccination card seen. Cards never issued (35.6 percent) outweigh cards lost (15.4 percent), and **96.8 percent** of children who never had a card were zero-dose. Any antenatal visit cuts the odds of a child never getting a card by **57 to 71 percent** |
 
-In progress: cutting clinic no-shows and recovering capacity. Next: where FMCG
-trade spend earns its money.
+Next: where FMCG trade spend earns its money.
 
 ## What I work with
 
@@ -36,9 +36,9 @@ scikit-learn), R (survey-weighted estimation, multilevel models)
 I write about healthcare and data careers on
 [Medium](https://medium.com/@adesua):
 
-- You Don't Need to Leave Healthcare to Work in Tech
-- The Healthcare Data Job Market Nobody Tells Health Workers About
-- Domain Knowledge Is the Bottleneck, Not Python
+- [You Don’t Need to Leave Healthcare to Work in Tech]([PASTE_URL_1](https://medium.com/@adesua/you-dont-need-to-leave-healthcare-to-work-in-tech-78c3b5accbe1))
+- [Your Local Clinic Needs a Data Analyst Now]([PASTE_URL_2](https://medium.com/@adesua/your-local-clinic-needs-a-data-analyst-now-5939b5448441))
+- [Resources to Build Your Healthcare Analytics Portfolio]([PASTE_URL_3](https://medium.com/thedeephub/resources-to-build-your-healthcare-analytics-portfolio-c160cce26c54))
 
 ## Elsewhere
 
